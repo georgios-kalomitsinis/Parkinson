@@ -75,7 +75,7 @@ Due to the nature of the problem, as a medical, the goal is to reduce positive i
 | F-Score | ![equation](https://latex.codecogs.com/gif.latex?%5Cbg_white%20%5Cfrac%7B2%5Ctimes%20%28Recall%20%5Ctimes%20Precision%29%7D%7BRecall%20&plus;%20Precision%7D) |
 
 </div>
-<figcaption align = "center"><p align="center">Table 3. Calculated metrics where TP, TN, FP, FN corresponds to True Positives, True Negatives, False Negatives and False Positives, respectively.</figcaption>
+<figcaption align = "center"><p align="center">Table 2. Calculated metrics where TP, TN, FP, FN corresponds to True Positives, True Negatives, False Negatives and False Positives, respectively.</figcaption>
 </figure>
 
 ## Results
