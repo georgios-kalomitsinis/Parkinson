@@ -44,6 +44,14 @@ spread1<br>spread2<br>PPE | Three nonlinear measures of fundamental frequency va
 
 Each person has 6 or 7 voice measurements. For the evaluation of each algorithm taken into account, the dataset was divided into individuals and not at the level of voice measurements. Furthermore, the split of the dataset was performed 10 times, with different people in the train set and test set, with ```train_size = 0.8```, where it is equivalent to 25 people. Also, The GridSearchCV procedure was applied to find the best hyperparameters of each algorithm (```LeaveOneGroupOut method```). 
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80779522/139537457-ae3ce9dc-83cf-4495-a124-74600e036108.png" width="600" />
+<figcaption align = "center"><p align="center">
+  Figure 3. Workflow of the developed module.</figcaption>
+</figure>
+
+
 ## Modelling and Evaluation
 **ALGORITHMS**
 
@@ -75,7 +83,7 @@ Due to the nature of the problem, as a medical, the goal is to reduce positive i
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80779522/139536894-64512cbe-dd26-425d-a4fe-1335467415a1.png" width="800" />
 <figcaption align = "center"><p align="center">
-  Figure 3. Average of the metrics of each classifier.</figcaption>
+  Figure 4. Average of the metrics of each classifier.</figcaption>
 </figure>
 
 
