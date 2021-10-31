@@ -86,5 +86,6 @@ Due to the nature of the problem, as a medical, the goal is to reduce positive i
   Figure 4. Average of the metrics of each classifier.</figcaption>
 </figure>
 
-
+## License
+This project is licensed under the [MIT License](https://github.com/georgios-kalomitsinis/Parkinson/blob/master/LICENSE).
 
