@@ -3,7 +3,7 @@
   
 # Parkinson
 
-Parkinson's disease is one of the most painful, dangerous and incurable diseases that occur in older people (mainly over 50 years). It concerns the death of dopamine neurons in the brain. This neurodegeneration leads to a range of symptoms, such as coordination issues, slowness of movement, voice changes, stiffness and even progressive disability. The symptoms and course of the disease vary, so it is often not diagnosed for many years. So far, there is no cure, although there is medication that offers a significant relief of symptoms, especially in the early stages of the disease [2]. Therefore, it is crucial to develop more sensitive diagnostic tools for detecting the disease, which is the main goal of this repository to discriminate healthy people from those with parkinson disease (PD). 
+Parkinson's disease is one of the most painful, dangerous and incurable diseases that occur in older people (mainly over 50 years). It concerns the death of dopamine neurons in the brain. This neurodegeneration leads to a range of symptoms, such as coordination issues, slowness of movement, voice changes, stiffness and even progressive disability. So far, there is no cure, although there is medication that offers a significant relief of symptoms, especially in the early stages of the disease. Therefore, it is crucial to develop more sensitive diagnostic tools for detecting the disease, which is the main goal of this repository to discriminate healthy people from those with parkinson disease (PD). 
   
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80779522/139534329-046c979c-3e40-4570-8397-036b9307c3a3.png" width="600" />
