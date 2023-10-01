@@ -63,6 +63,7 @@ Each person has 6 or 7 voice measurements. For the evaluation of each algorithm 
 * *XGB classifier*
 
 **METRICS**
+
 Due to the nature of the problem, as a medical, the goal is to reduce positive inaccuracies in the calculation. Either the precision score or the recall do not cover the purpose, as well as the accuracy. Therefore, for better results, the f1-score measure is taken into account, where a balance between precison and recall is sought even in imbalanced classes.
 
 <div align="center">
